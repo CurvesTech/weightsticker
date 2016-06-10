@@ -1,0 +1,7 @@
+{
+  "name": "weightsticker",
+  "description": "a javascript plugin to show weighted values in a nice widget",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

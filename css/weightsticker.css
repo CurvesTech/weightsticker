@@ -1,0 +1,11 @@
+.ws{
+	border: 2px solid #cdcdcd;
+	border-radius:3px;
+}
+.ws-stripe{
+	padding:3px;
+	text-align:center;
+}
+.clear{
+	clear:both;
+}
